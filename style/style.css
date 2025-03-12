@@ -1,0 +1,45 @@
+table {
+max-width: 600px;
+height: 600px;
+border-spacing: 0px;
+}
+
+
+td {
+    min-height: 50px;
+    background-color: white;
+    border: 3px solid #000;
+    width: 200px;      
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.black  {
+    background-color: #000;
+}
+
+.blue   {
+    background-color: blue;
+}
+.bottomblock  {
+    height: 20px;
+}
+.upblock    {
+    height: 50px;
+}
+.lblock {
+    width: 70px;
+}
+
+.rblock {
+width: 70px;
+}
+.inside {
+    height: 50px;
+}
